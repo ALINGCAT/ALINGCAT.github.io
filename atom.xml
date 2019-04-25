@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-04-22T04:54:54.333Z</updated>
+  <updated>2019-04-25T12:22:27.113Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,24 +17,42 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>2019-4-22随笔</title>
-    <link href="http://yoursite.com/2019/04/14/Reco2019-4-22/"/>
-    <id>http://yoursite.com/2019/04/14/Reco2019-4-22/</id>
-    <published>2019-04-14T08:02:52.376Z</published>
-    <updated>2019-04-22T04:54:54.333Z</updated>
-    
-    <content type="html"><![CDATA[<p>这是第一篇随笔也是第一篇博文吧 也不指望有谁看 在没有做国内域名映射之前先这样</p><h3 id="关于一些历史"><a href="#关于一些历史" class="headerlink" title="关于一些历史"></a>关于一些历史</h3><p>最早就是跟着北海若用Github的repo+hexo建站的 后来学了HTML头铁想自己手写CSS 结果..</p><p>以前的博文也没有备份 不过也都是一些没用的教程和笔记啥的 扔了也就扔了 不心疼</p><p>后来在博客园注册了一个博客 后台支持修改CSS还是挺不错的 还可以申请JS权限</p><p><del>甚至可以用display:none把对应的广告区块给隐藏起来</del></p><p>但还是没坚持更博 不太喜欢界面 <del>其实主要是因为自己CSS改的太丑</del></p><p>反正也没人看 我就不在这里放传送门了</p><p><del>还是MarkDown舒服</del> 于是用回了hexo 顺便找到了挺好看的主题 感谢作者</p><p>PS.不用Jekyll的原因是我太菜了</p><h3 id="关于目前博客状况"><a href="#关于目前博客状况" class="headerlink" title="关于目前博客状况"></a>关于目前博客状况</h3><p>至少能浏览博文 emm 目前没太把注意力放在修博客上面 其实15号我就打算写第一个随笔的</p><p>我还硬是拖到了22号 <del>充分彰显人类的本质</del> 其他页面的关联我甚至都还没做orz</p><p>甚至简介我还没找到在什么地方set 毕竟是写给自己看的东西 姑且暂时不在乎那么多</p><h3 id="关于未来的规划"><a href="#关于未来的规划" class="headerlink" title="关于未来的规划"></a>关于未来的规划</h3><p>我尽量在高考之前把博客修好 顺便找几个友联加上 虽然也不重要orz</p><p>博客我是打算记录TH902项目的解读过程的 关于项目本身在Github上开源</p><p><a href="https://github.com/cn-s3bit/TH902" target="_blank" rel="noopener">这里是Java项目</a> | <a href="https://github.com/cn-s3bit/TH902-PortC" target="_blank" rel="noopener">这里是C项目</a></p><p>Java项目是以前的项目 因为jit导致无法正常还原replay 主程prpr选择放弃java+libgdx</p><p>改用C+SDL 目前还在还原Java项目里面的功能这个阶段 做博客还是为了给自己一个可视的进度</p><p>不过在此之间我还得把博客的分类和tag修好 不然归类乱了也很麻烦</p><p>之后<strong>应该</strong>会每个月写一次随笔 <del>所以咕掉也不稀奇</del></p><p>啊~ 指甲好长 我去剪指甲去了orz</p>]]></content>
+    <title>2019-4-25随笔</title>
+    <link href="http://yoursite.com/2019/04/25/Reco2019-4-25/"/>
+    <id>http://yoursite.com/2019/04/25/Reco2019-4-25/</id>
+    <published>2019-04-25T11:43:47.000Z</published>
+    <updated>2019-04-25T12:22:27.113Z</updated>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;这是第一篇随笔也是第一篇博文吧 也不指望有谁看 在没有做国内域名映射之前先这样&lt;/p&gt;
-&lt;h3 id=&quot;关于一些历史&quot;&gt;&lt;a href=&quot;#关于一些历史&quot; class=&quot;headerlink&quot; title=&quot;关于一些历史&quot;&gt;&lt;/a&gt;关于一些历史&lt;/h3&gt;&lt;p&gt;最早就是跟着北
-      
+      &lt;p&gt;&lt;center&gt;NMD 啥都没做就写了两个随笔了&lt;/center&gt;
     
     </summary>
     
+      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="记录" scheme="http://yoursite.com/tags/%E8%AE%B0%E5%BD%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2019-4-22随笔</title>
+    <link href="http://yoursite.com/2019/04/22/Reco2019-4-22/"/>
+    <id>http://yoursite.com/2019/04/22/Reco2019-4-22/</id>
+    <published>2019-04-22T06:24:46.000Z</published>
+    <updated>2019-04-25T11:38:00.220Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;center&gt;这是第一篇随笔也是第一篇博文吧 也不指望有谁看 在没有做国内域名映射之前先这样&lt;/center&gt;
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="记录" scheme="http://yoursite.com/tags/%E8%AE%B0%E5%BD%95/"/>
     
   </entry>
   
